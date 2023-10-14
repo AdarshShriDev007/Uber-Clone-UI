@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "icon" : "checklistRules.webp",
+        "title" : "Our new Door-to-Door Safety Standard",
+        "subtitle" : "We want you to feel safe riding with Uber as our communities start to move again. That’s why we’re introducing our new Door-to-Door Safety Standard. Powered by Uber’s innovative technology, encouraging shared responsibility, and including guidance from health experts, these new measures are designed to help protect the health and safety of everyone who uses our platform."
+    },
+    {
+        "id" : 2,
+        "icon" : "mask-on-square.webp",
+        "title" : "In this together",
+        "subtitle" : "All riders and drivers must wear a face cover or mask when using Uber, even when vaccinated."
+    },
+    {
+        "id" : 3,
+        "icon" : "FCC-on-square.webp",
+        "title" : "Face Cover Check",
+        "subtitle" : "We ask drivers to take a photo of themselves before they can begin driving, and our technology helps verify that they are wearing a face cover."
+    },
+    {
+        "id" : 4,
+        "icon" : "blue.webp",
+        "title" : "Health and safety supplies for drivers",
+        "subtitle" : "We are working to provide drivers and delivery people with health and safety supplies like face covers, disinfectants, and gloves to deliver food."
+    },
+    {
+        "id" : 5,
+        "icon" : "expert-advice.webp",
+        "title" : "Expert-led guidance",
+        "subtitle" : "We are working with the World Health Organization (WHO) to share safety tips and resources."
+    },
+    {
+        "id" : 6,
+        "icon" : "feedbackloop.webp",
+        "title" : "Ride Safety Feedback",
+        "subtitle" : "You’ll now be able to leave feedback on health issues, such as a driver not wearing a face cover or a mask. This helps us improve and holds everyone accountable."
+    }
+]

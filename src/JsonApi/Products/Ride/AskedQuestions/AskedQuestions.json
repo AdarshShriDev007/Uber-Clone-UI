@@ -1,0 +1,39 @@
+{
+    "title" : "Frequently asked questions",
+    "accordion" : [
+        {
+            "id" : 1,
+            "title" : "How do I create an account?",
+            "subtitle" : "Download the Uber app from the App Store or Google Play, then create an account with your email address and mobile phone number. A payment method is also needed before you can request a ride.",
+            "button" : "How to create an account",
+            "textBoldText" : "",
+            "textBtnText" : ""
+            
+        },
+        {
+            "id" : 2,
+            "title" : "Is Uber available in my city?",
+            "subtitle" : "You can find Uber in more than 10,000 cities around the world.",
+            "button" : "See all cities",
+            "textBoldText" : "",
+            "textBtnText" : ""
+            
+        },
+        {
+            "id" : 3,
+            "title" : "How do I request a ride?",
+            "subtitle" : "When you’re ready to go, open the app and enter your destination. Then choose the ride option that best suits your needs. Confirm your pickup by tapping",
+            "button" : "How the app works",
+            "textBoldText" : "Confirm Pickup.",
+            "textBtnText" : ""
+        },
+        {
+            "id" : 4,
+            "title" : "Can I use Uber without a smartphone?",
+            "subtitle" : "Yes, in certain markets you can request a ride by signing in to",
+            "button" : "Get a ride",
+            "textBoldText" : "",
+            "textBtnText" : "m.uber.com."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "icon" : "shield",
+        "title" : "Safety",
+        "subtitle" : "Peace of mind is designed into your experience.",
+        "button" : "Learn more about safety"
+    },
+    {
+        "id" : 2,
+        "icon" : "language",
+        "title" : "Cities",
+        "subtitle" : "Available in 10,000+ cities.",
+        "button" : "Find a city"
+    },
+    {
+        "id" : 3,
+        "icon" : "flight_takeoff",
+        "title" : "Airports",
+        "subtitle" : "Access to rides at 600+ airports.",
+        "button" : "See all airports"
+    }
+]

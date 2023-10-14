@@ -1,0 +1,25 @@
+{
+    "title" : "Your safety matters",
+    "subtitle" : "Peace of mind is designed into your experience.",
+    "button" : "Learn more about safety",
+    "list" : [
+        {
+            "id" : 1,
+            "img" : "images/Safety-Center.svg",
+            "title" : "Safety features",
+            "subtitle" : "Tell your loved ones where you are. Get help with the tap of a button. Technology makes travel safer than ever before."
+        },
+        {
+            "id" : 2,
+            "img" : "images/Community-Guidelines.svg",
+            "title" : "An inclusive community",
+            "subtitle" : "We are millions of riders and drivers who share Community Guidelines and depend on one another to do the right thing."
+        },
+        {
+            "id" : 3,
+            "img" : "images/24_7-Support.svg",
+            "title" : "Help if you need it",
+            "subtitle" : "Get 24/7 support in the app for any questions or safety concerns you might have."
+        }
+    ]
+}

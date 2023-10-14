@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "img" : "images/RiderApp.webp",
+        "title" : "Rider app",
+        "subtitle" : "Get where you’re going easily and reliably with the tap of a button. Choose the ride option that best suits your needs.",
+        "button" : "See the rider app"
+    },
+    {
+        "id" : 2,
+        "img" : "images/driverapp.webp",
+        "title" : "Driver app",
+        "subtitle" : "With the Driver app, you’re in control. The app designed with features that empower you to decide how, where, and when you earn.",
+        "button" : "See the driver app"
+    }
+]

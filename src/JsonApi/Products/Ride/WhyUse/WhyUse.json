@@ -1,0 +1,25 @@
+{
+    "title" : "Why use the Uber app?",
+    "img" : "images/whyRideWithUs_desktop.svg",
+    "button" : "How riding works",
+    "list" : [
+        {
+            "id" : 1,
+            "icon" : "access_time",
+            "title" : "Rides on demand",
+            "subtitle" : "Request a ride at any time and on any day of the year."
+        },
+        {
+            "id" : 2,
+            "icon" : "money",
+            "title" : "Budget-friendly options",
+            "subtitle" : "Compare prices on every kind of ride, from daily commutes to special evenings out."
+        },
+        {
+            "id" : 3,
+            "icon" : "pin_drop",
+            "title" : "An easy way to get around",
+            "subtitle" : "Tap and let your driver take you where you want to go."
+        }
+    ]
+}

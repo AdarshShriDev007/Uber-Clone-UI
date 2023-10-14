@@ -1,0 +1,29 @@
+{
+    "title" : "How it works",
+    "step" : [
+        {
+            "id" : 1,
+            "img" : "images/HOW_STEP1-(2).webp",
+            "title" : "Open your app",
+            "subtitle" : "at the top of your screen.",
+            "beforebold" : "Tap",
+            "bold" : "Ride"
+        },
+        {
+            "id" : 2,
+            "img" : "images/HOW_STEP2-(2).webp",
+            "title" : "Find the best way to get there",
+            "subtitle" : " then follow the map to find a bike or scooter nearby.",
+            "beforebold" : "Select",
+            "bold" : "Bike & Scooter,"
+        },
+        {
+            "id" : 3,
+            "img" : "images/HOW_STEP3-(2).webp",
+            "title" : "Strap on a helmet and go",
+            "subtitle" : "You can either reserve an electric bike or scooter or walk up to one and scan the barcode to unlock it.",
+            "beforebold" : "",
+            "bold" : ""
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title" : "Helping to keep each other safe during COVID-19",
+    "subtitle" : "We’re actively monitoring the coronavirus (COVID-19) situation and are continually working to help keep those who rely on our platform healthy and safe.",
+    "buttons" : [
+        {
+            "id" : 1,
+            "btntxt" : "Go to Uber’s COVID-19 hub"
+        },
+        {
+            "id" : 2,
+            "btntxt" : "Read about our new Door-to-Door Safety Standard"
+        }
+    ]
+}

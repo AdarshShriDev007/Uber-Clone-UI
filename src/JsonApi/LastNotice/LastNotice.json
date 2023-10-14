@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "notice" : "*Certain requirements and features vary by region and may be unavailable.",
+        "page" : "safety"
+    },
+    {
+        "id" : 2,
+        "notice" : "The material provided on this web page is intended for informational purposes only and may not be applicable in your country, region, or city. It is subject to change and may be updated without notice.",
+        "page" : "uber-offerings"
+    },
+    {
+        "id" : 3,
+        "notice" : "Certain requirements and features vary by country, region, and city.",
+        "page" : "ride"
+    },
+    {
+        "id" : 4,
+        "notice" : "Certain requirements and features vary by country, region, and city.",
+        "page" : "bike_and_scooters"
+    }
+]

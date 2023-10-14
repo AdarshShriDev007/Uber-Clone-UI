@@ -1,0 +1,24 @@
+[
+    {
+        "id" : 1,
+        "icon" : "campaign",
+        "title" : "Newsroom",
+        "subtitle" : "Get announcements about partnerships, app updates, initiatives, and more near you and around the world.",
+        "button" : "Go to Newsroom"
+    },
+    {
+        "id" : 2,
+        "icon" : "groups_2",
+        "title" : "Blog",
+        "subtitle" : "Find new places to explore and learn about Uber products, partnerships, and more.",
+        "button" : "Read our posts"
+    },
+    {
+        "id" : 3,
+        "icon" : "diversity_2",
+        "title" : "Investor relations",
+        "subtitle" : "Download financial reports, see next-quarter plans, and read about our corporate responsibility initiatives.",
+        "button" : "Learn more"
+    }
+    
+]

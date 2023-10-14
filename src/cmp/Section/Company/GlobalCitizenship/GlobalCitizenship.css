@@ -1,0 +1,19 @@
+
+.text-con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-con{
+    margin-bottom: 100px;
+}
+
+.GlobalCiti-Con{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.con-center{
+    display: flex;
+}

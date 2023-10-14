@@ -1,0 +1,149 @@
+[
+    {
+        "id" : 1,
+        "label" : "Company",
+        "dropdown" : true,
+        "position" : "left",
+        "dropdownMenu" : [
+            {
+                "id" : 2,
+                "label" : "About us",
+                "url" : "/company/about-us"
+            },
+            {
+                "id" : 3,
+                "label" : "Our offerings",
+                "url" : "/company/uber-offerings"
+            },
+            {
+                "id" : 4,
+                "label" : "How Uber works",
+                "url" : "/company/how-does-uber-work"
+            },
+            {
+                "id" : 5,
+                "label" : "Global citizenship",
+                "url" : "/company/global-citizenship"
+            },
+            {
+                "id" : 6,
+                "label" : "Newsroom",
+                "url" : "/newsroom"
+            },
+            {
+                "id" : 7,
+                "label" : "Invester relations",
+                "url" : "/invester-relations"
+            },
+            {
+                "id" : 8,
+                "label" : "Blog",
+                "url" : "/blog"
+            },
+            {
+                "id" : 9,
+                "label" : "Careers",
+                "url" : "/careers"
+            }
+        ]
+        
+    },
+    {
+        "id" : 10,
+        "label" : "Safety",
+        "dropdown" : false,
+        "url" : "/safety",
+        "position" : "left"
+    },
+    {
+        "id" : 11,
+        "label" : "Help",
+        "dropdown" : false,
+        "url" : "/help",
+        "position" : "left"
+    },
+    {
+        "id" : 12,
+        "label" : "Products",
+        "dropdown" : true,
+        "position" : "right",
+        "icon" : "apps",
+        "dropdownMenu" : [
+            {
+                "id" : 13,
+                "label" : "Home",
+                "icon" : "home",
+                "url" : "/"
+            },
+            {
+                "id" : 14,
+                "label" : "Ride",
+                "icon" : "two_wheeler",
+                "url" : "/products/ride"
+            },
+            {
+                "id" : 15,
+                "label" : "Drive",
+                "icon" : "drive_eta",
+                "url" : "/products/drive"
+            },
+            {
+                "id" : 16,
+                "label" : "Eat",
+                "icon" : "restaurant",
+                "url" : "/products/eat"
+            },
+            {
+                "id" : 17,
+                "label" : "Merchants",
+                "icon" : "liquor",
+                "url" : "/products/merchants"
+            },
+            {
+                "id" : 18,
+                "label" : "Freight",
+                "icon" : "local_shipping",
+                "url" : "/products/freight"
+            },
+            {
+                "id" : 19,
+                "label" : "Bike & scoot",
+                "icon" : "pedal_bike",
+                "url" : "/products/bike-and-scooters"
+            },
+            {
+                "id" : 20,
+                "label" : "Transit",
+                "icon" : "directions_transit",
+                "url" : "/products/transit"
+            },
+            {
+                "id" : 21,
+                "label" : "Business",
+                "icon" : "work_outline",
+                "url" : "/products/business"
+            },
+            {
+                "id" : 22,
+                "label" : "Money",
+                "icon" : "money",
+                "url" : "/products/money"
+            }
+        ]
+        
+    },
+    {
+        "id" : 23,
+        "label" : "Log in",
+        "dropdown" : false,
+        "url" : "/log-in",
+        "position" : "right"
+    },
+    {
+        "id" : 24,
+        "label" : "Sign up",
+        "dropdown" : false,
+        "url" : "/sign-up",
+        "position" : "right"
+    }
+]

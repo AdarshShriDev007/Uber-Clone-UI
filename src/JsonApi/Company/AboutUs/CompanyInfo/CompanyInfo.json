@@ -1,0 +1,24 @@
+[
+    {
+        "id" : 1,
+        "img" : "images/CompanyInfo1.webp",
+        "title" : "Who's driving Uber",
+        "subtitle" : "We’re building a culture within Uber that emphasizes doing the right thing, period, for riders, drivers, and employees. Find out more about the team that’s leading the way.",
+        "button" : "See our leadership"
+    },
+    {
+        "id" : 2,
+        "img" : "images/CompanyInfo2.webp",
+        "title" : "Getting diversity right",
+        "subtitle" : "It’s our goal to create a workplace that is inclusive and reflects the diversity of the cities we serve—where everyone can be their authentic self, and where that authenticity is celebrated as a strength. By creating an environment where people from every background can thrive, we’ll make Uber a better company—for our employees and our customers.",
+        "button" : "Read about diversity"
+    },
+    {
+        "id" : 3,
+        "img" : "images/CompanyInfo3.webp",
+        "title" : "Acting with integrity",
+        "subtitle" : "Uber's Ethics & Compliance Program Charter outlines our commitment to integrity at the highest levels within the company. Transparency is critical to an ethical culture; we achieve this through our Integrity Helpline and suite of scalable and effective compliance initiatives.",
+        "button" : "Learn more"
+    }
+    
+]

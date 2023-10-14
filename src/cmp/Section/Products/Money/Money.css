@@ -1,0 +1,53 @@
+.video-con,.uberPay-con{
+    position: relative;
+    left:0;
+    width:100%;
+    height: 480px;
+    overflow: hidden;
+    
+}
+
+.uberPay-con{
+    border-bottom: 1px solid white;
+}
+
+.video-overlay{
+    position: absolute;
+    left:0;
+    top:0;
+    width:100%;
+    height: 480px;
+    
+}
+
+.uberPay-subcon{
+    position: absolute;
+    left:0;
+    top:0;
+    width:100%;
+    height: 480px;
+}
+
+.video-btn{
+    border:none;
+    border-radius: 8px;
+    padding:10px 20px 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+
+  @media(max-width:768px)
+  {
+    .video-con,.uberPay-con{ 
+        height: 350px;  
+    }
+
+    .video-overlay,.uberPay-subcon{
+        height: 350px;
+    }
+  }
+
+ 
+

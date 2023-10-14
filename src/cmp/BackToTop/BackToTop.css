@@ -1,0 +1,42 @@
+
+.backtotopIconCon{
+    position: fixed !important;
+    right: 20px !important;
+    bottom: 20px !important;
+    width: 50px !important; 
+    height: 50px !important;
+    background-color: white !important;
+    border-radius: 50% !important;
+    border : none !important;
+}
+
+.backtotopIcon{
+    color: black !important;
+    font-size: 25px !important;
+    font-weight: bold !important;
+}
+
+.backtotoptext{
+    font-weight: bold !important;
+    display: none !important;
+}
+
+.backtotopIconCon:hover{
+    width: 150px !important;
+    height: 50px !important;
+    border-radius: 50px !important;
+}
+
+.backtotopIconCon:hover .backtotoptext{
+    display: block !important;
+}
+
+
+
+
+
+
+
+
+
+

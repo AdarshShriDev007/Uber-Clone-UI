@@ -1,0 +1,121 @@
+[
+    {
+        "id" : 1,
+        "title" : "Company",
+        "list" : [
+            {
+                "id" : 2,
+                "title" : "About us",
+                "url" : "/about-us"
+            },
+            {
+                "id" : 3,
+                "title" : "Our offerings",
+                "url" : "/our-offerings"
+            },
+            {
+                "id" : 4,
+                "title" : "Newsroom",
+                "url" : "/newsroom"
+            },
+            {
+                "id" : 5,
+                "title" : "Investors",
+                "url" : "/investors"
+            },
+            {
+                "id" : 6,
+                "title" : "Blog",
+                "url" : "/blog"
+            },
+            {
+                "id" : 7,
+                "title" : "Careers",
+                "url" : "/careers"
+            },
+            {
+                "id" : 8,
+                "title" : "AI",
+                "url" : "/ai"
+            },
+            {
+                "id" : 9,
+                "title" : "Gift cards",
+                "url" : "/gift-cards"
+            }
+        ]
+    },
+    {
+        "id" : 10,
+        "title" : "Products",
+        "list" : [
+            {
+                "id" : 11,
+                "title" : "Ride",
+                "url" : "/ride"
+            },
+            {
+                "id" : 12,
+                "title" : "Drive",
+                "url" : "/drive"
+            },
+            {
+                "id" : 13,
+                "title" : "Deliver",
+                "url" : "/deliver"
+            },
+            {
+                "id" : 14,
+                "title" : "Eat",
+                "url" : "/eat"
+            },
+            {
+                "id" : 15,
+                "title" : "Uber for Business",
+                "url" : "/uber-for-business"
+            },
+            {
+                "id" : 16,
+                "title" : "Uber Freight",
+                "url" : "/uber-freight"
+            }
+        ]
+    },
+    {
+        "id" : 17,
+        "title" : "Global citizenship",
+        "list" : [
+            {
+                "id" : 18,
+                "title" : "Safety",
+                "url" : "/safety"
+            },
+            {
+                "id" : 19,
+                "title" : "Diversity and Inclusion",
+                "url" : "/diversity-and-inclusion"
+            },
+            {
+                "id" : 20,
+                "title" : "Sustainability",
+                "url" : "/sustainability"
+            }
+        ]
+    },
+    {
+        "id" : 21,
+        "title" : "Travel",
+        "list" : [
+            {
+                "id" : 22,
+                "title" : "Airports",
+                "url" : "/airports"
+            },
+            {
+                "id" : 23,
+                "title" : "Cities",
+                "url" : "/cities"
+            }
+        ]
+    }
+]

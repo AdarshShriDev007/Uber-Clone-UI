@@ -1,0 +1,41 @@
+{
+    "title" : "How to use the Uber app",
+    "subtitle" : "Our core service is developing technology that connects drivers and riders on demand. Here’s how the app works, step by step:",
+    "step" : [
+        {
+            "id" : 1,
+            "img" : "images/step1.jpg",
+            "stepName" : "Step 1",
+            "title" : "A rider opens the app",
+            "subtitle" : "The rider enters their destination into the “Where to?” box; reviews each ride option for vehicle size, price, and estimated dropoff time; chooses the desired option; then confirms the pickup."
+        },
+        {
+            "id" : 2,
+            "img" : "images/step2.jpg",
+            "stepName" : "Step 2",
+            "title" : "The rider is matched with a driver",
+            "subtitle" : "A nearby driver sees and chooses to accept the rider’s ride request. The rider is automatically notified when the driver’s vehicle is about a minute away."
+        },
+        {
+            "id" : 3,
+            "img" : "images/step3.jpg",
+            "stepName" : "Step 3",
+            "title" : "The driver picks up the rider",
+            "subtitle" : "The driver and the rider verify each other’s names and the destination. Then the driver starts the ride."
+        },
+        {
+            "id" : 4,
+            "img" : "images/step4.jpg",
+            "stepName" : "Step 4",
+            "title" : "The driver takes the rider to the destination",
+            "subtitle" : "The app gives the driver the option to access turn-by-turn directions."
+        },
+        {
+            "id" : 5,
+            "img" : "images/step5.jpg",
+            "stepName" : "Step 5",
+            "title" : "The driver and rider leave ratings and reviews",
+            "subtitle" : "At the end of each trip, drivers and riders can rate each other from 1 to 5 stars. Riders also have the option to give the driver compliments and a tip directly in the app."
+        }
+    ]
+}

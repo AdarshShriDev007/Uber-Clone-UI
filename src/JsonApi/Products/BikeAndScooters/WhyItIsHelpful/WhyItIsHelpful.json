@@ -1,0 +1,20 @@
+{
+    "title" : "Why it’s helpful",
+    "list" : [
+        {
+            "id" : 1,
+            "title" : "Feel the boost",
+            "subtitle" : "Pedal-assist electric bikes make riding easy: the harder you pedal, the more boost you get."
+        },
+        {
+            "id" : 2,
+            "title" : "Hop on and go",
+            "subtitle" : "Electric scooters on demand help you go farther and get there faster while having fun."
+        },
+        {
+            "id" : 3,
+            "title" : "Park easily",
+            "subtitle" : "Return your e-bike or e-scooter wherever your ride takes you, on a bike rack or sidewalk away from pedestrian walkways."
+        }
+    ]
+}

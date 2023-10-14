@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "title" : "Driver safety",
+        "subtitle" : "Count on 24/7 support to help with any questions or safety concerns. Share your trip with loved ones. Our focus is on your safety, so you can go where the opportunity is.",
+        "img" : "DriverSafety.webp",
+        "button" : "Learn more"
+    },
+    {
+        "id" : 2,
+        "title" : "Rider safety",
+        "subtitle" : "Millions of rides are requested every day. Every rider has access to safety features built into the app. And every ride has a support team if you need them.",
+        "img" : "RiderSafety.webp",
+        "button" : "Learn more"
+    }
+]

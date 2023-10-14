@@ -1,0 +1,25 @@
+
+
+.Offerings-icon{
+    width: 50px;
+    margin-bottom: 15px;
+}
+
+.text-con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-con{
+    margin-bottom: 100px;
+}
+
+.Offering-Con{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.con-center{
+    display: flex;
+}

@@ -1,0 +1,19 @@
+{
+    "title" : "Earn money with Uber",
+    "list" : [
+        {
+            "id" : 1,
+            "img" : "images/UberIM.webp",
+            "title" : "Drive with Uber",
+            "subtitle" : "Make the most of your time on the road on the platform with the largest network of active riders.",
+            "button" : "Sign up to drive"
+        },
+        {
+            "id" : 2,
+            "img" : "images/UberIM_deliver.webp",
+            "title" : "Deliver with Uber",
+            "subtitle" : "Make money by delivering food orders that people crave, and other items using the Uber Eats app—all while exploring your city.",
+            "button" : "Sign up to deliver"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "title" : "Sign up today",
+    "subtitle" : "Ready to experience Uber for yourself? Take your first trip as a rider, or get on the road to earning as a driver.",
+    "button" : [
+        {
+            "id" : 1,
+            "text" : "Sign up to drive"
+        },
+        {
+            "id" : 2,
+            "text" : "Sign up to ride"
+        }
+    ]
+}

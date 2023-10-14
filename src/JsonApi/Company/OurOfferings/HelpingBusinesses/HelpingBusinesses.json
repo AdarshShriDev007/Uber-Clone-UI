@@ -1,0 +1,19 @@
+{
+    "title" : "Helping businesses move ahead",
+    "list" : [
+        {
+            "id" : 1,
+            "img" : "images/Uber-Freight.webp",
+            "title" : "Uber Freight",
+            "subtitle" : "Uber Freight is a free app that matches carriers with shippers. Shippers tap a button to instantly book the loads they want to haul. And thanks to upfront pricing, carriers always know how much they’ll get paid.",
+            "button" : "Visit Uber Freight"
+        },
+        {
+            "id" : 2,
+            "img" : "images/Uber-for-Business.webp",
+            "title" : "Uber for Business",
+            "subtitle" : "Whether it’s employee travel or customer rides, Uber for Business gives you an easy way to manage your ground transportation needs. Built for work, it offers a clear view into employee trip activity with automated billing, expensing, and reporting.",
+            "button" : "Visit Uber for Business"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "img" : "images/Content-Items-3-up-images_DebitCard.webp",
+        "title" : "Uber Debit Card",
+        "subtitle" : "Access earnings after every trip, and grow your money with real-time cash-back savings. Check your Wallet to see if the Debit Card is available in your area.",
+        "button" : ""
+    },
+    {
+        "id" : 2,
+        "img" : "images/Content-Items-3-up-images_UberCash.webp",
+        "title" : "Plan ahead",
+        "subtitle" : "Set a budget and stick to it. Uber Cash lets you select an amount to pre-pay for your upcoming rides and orders.",
+        "button" : "Learn more"
+    }
+]

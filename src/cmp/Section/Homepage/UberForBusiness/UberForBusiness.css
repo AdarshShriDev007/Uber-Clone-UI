@@ -1,0 +1,21 @@
+.mainCon{
+    position: relative;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
+
+.con{
+    position: absolute;
+    top:64px;
+    bottom:64px;
+    left:0px;
+    min-height: auto;
+}
+
+
+
+
+

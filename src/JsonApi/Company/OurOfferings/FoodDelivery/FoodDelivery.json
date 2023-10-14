@@ -1,0 +1,19 @@
+{
+    "title" : "Food delivery on demand",
+    "list" : [
+        {
+            "id" : 1,
+            "img" : "images/UberEats.webp",
+            "title" : "Uber Eats",
+            "subtitle" : "Order from your favorite restaurants, online or with the Uber app. The restaurants will prepare your order, and a nearby delivery person will deliver it to your door.",
+            "button" : "Visit Uber Eats"
+        },
+        {
+            "id" : 2,
+            "img" : "images/Restaurants.webp",
+            "title" : "Restaurants",
+            "subtitle" : "Uber Eats makes a real impact on your restaurant business. When your food is featured in the app, new customers can discover it and loyal customers can enjoy it more often. Delivery people using the Uber app deliver the food fast, maintaining the best possible food quality.",
+            "button" : "Partner with Uber Eats"
+        }
+    ]
+}

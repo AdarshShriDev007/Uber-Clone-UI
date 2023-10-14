@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "img" : "uberAuto.webp",
+        "title" : "Uber Auto",
+        "subtitle" : "Get affordable Uber Auto rides with no haggling. Request Uber Auto and ride comfortably around your city.",
+        "icon" : "arrow_forward"
+    },
+    {
+        "id" : 2,
+        "img" : "uberMoto.webp",
+        "title" : "Uber Moto",
+        "subtitle" : "Get affordable bike rides at your doorstep. Skip the crowd and zip through traffic with Uber Moto.",
+        "icon" : "arrow_forward"
+    },
+    {
+        "id" : 3,
+        "img" : "uberRental.webp",
+        "title" : "Uber Rentals",
+        "subtitle" : "Book Rentals to save time with one car and driver for your multi-stop trips.",
+        "icon" : "arrow_forward"
+    },
+    {
+        "id" : 4,
+        "img" : "uberIntercity.webp",
+        "title" : "Uber Intercity",
+        "subtitle" : "Book Intercity to head outstation anytime in convenient and affordable cars.",
+        "icon" : "arrow_forward"
+    }
+]

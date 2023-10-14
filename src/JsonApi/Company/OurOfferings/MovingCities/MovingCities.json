@@ -1,0 +1,19 @@
+{
+    "title" : "Moving cities forward, together",
+    "list" : [
+        {
+            "id" : 1,
+            "img" : "images/Uber-Transit.webp",
+            "title" : "Helping to improve public transportation for all",
+            "subtitle" : "Uber is committed to helping cities around the world make public transportation more accessible, equitable, and efficient.",
+            "button" : "Learn more about Uber Transit"
+        },
+        {
+            "id" : 2,
+            "img" : "images/Uber_health.webp",
+            "title" : "Providing access to care for those in need",
+            "subtitle" : "We’ve partnered with healthcare organizations to provide their members and patients with access to care by offering them flexible ride-scheduling options. Healthcare professionals can schedule rides for patients and caregivers going to and from the care they need, all from a single dashboard.",
+            "button" : "Visit Uber Health"
+        }
+    ]
+}

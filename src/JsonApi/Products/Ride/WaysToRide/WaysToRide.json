@@ -1,0 +1,75 @@
+{
+    "title" : "Ways to ride in the area",
+    "tabs" : [
+        {
+            "id" : 1,
+            "tab" : "Popular",
+            "indexVal" : 0,
+            "tabpanel" : [
+                {
+                    "id" : 2,
+                    "img" : "images/Sedan_Intercity.webp",
+                    "title" : "Sedan Intercity",
+                    "number" : "1-4",
+                    "subtitle" : "Outstation rides in comfortable sedans"
+                },
+                {
+                    "id" : 3,
+                    "img" : "images/BlackSUV.webp",
+                    "title" : "XL Intercity",
+                    "number" : "1-4",
+                    "subtitle" : "Outstation rides in spacious SUVs"
+                }
+            ]
+        },
+        {
+            "id" : 4,
+            "tab" : "Economy",
+            "indexVal" : 1,
+            "tabpanel" : [
+                {
+                    "id" : 5,
+                    "img" : "images/Uber_go.webp",
+                    "title" : "Uber Go",
+                    "number" : "1-4",
+                    "subtitle" : "Affordable, compact rides"
+                },
+                {
+                    "id" : 6,
+                    "img" : "images/Uber_go_sedan.webp",
+                    "title" : "Uber Go Sedan",
+                    "number" : "1-4",
+                    "subtitle" : "Affordable, sedan rides"
+                },
+                {
+                    "id" : 7,
+                    "img" : "images/Uber_moto.webp",
+                    "title" : "Uber Moto",
+                    "number" : "1",
+                    "subtitle" : "Affordable, motorcycle rides"
+                },
+                {
+                    "id" : 8,
+                    "img" : "images/Uber_premier.webp",
+                    "title" : "Uber Premier",
+                    "number" : "1-4",
+                    "subtitle" : "Comfortable sedans, top-quality drivers"
+                },
+                {
+                    "id" : 9,
+                    "img" : "images/UberXL.webp",
+                    "title" : "Uber XL",
+                    "number" : "1-6",
+                    "subtitle" : "Affordable, SUV rides"
+                },
+                {
+                    "id" : 10,
+                    "img" : "images/premier_executive.webp",
+                    "title" : "Premier Executive",
+                    "number" : "1-4",
+                    "subtitle" : "Especially Designed for Corporate Travel"
+                }
+            ]
+        }
+    ]
+}

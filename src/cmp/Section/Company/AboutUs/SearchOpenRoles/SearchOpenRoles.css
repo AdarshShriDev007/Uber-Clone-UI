@@ -1,0 +1,11 @@
+.roles-btn{
+    border:none;
+    background-color: #000000;
+    border-radius: 8px;
+    padding:10px 20px 10px 20px;
+}
+
+.roles-btn:hover{
+    background-color: #333333;
+    transition: 0.5s;
+}

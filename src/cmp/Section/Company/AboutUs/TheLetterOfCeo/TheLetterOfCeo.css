@@ -1,0 +1,52 @@
+.CeoCon{
+    position: relative;
+    width: 100%;
+    height: 480px;
+    overflow: hidden;
+    margin-bottom: 64px;
+}
+
+.ceoLetterCon{
+    position: absolute;
+    width:100%;
+    height: 480px;
+    top:0;
+    left:0px;
+    display: flex;
+    align-items: center;
+
+}
+
+.letter-btn{
+    border:none;
+    background-color: #000000;
+    border-radius: 8px;
+    padding:10px 20px 10px 20px;
+}
+
+.letter-btn:hover{
+    background-color: #333333;
+    transition: 0.5s;
+}
+
+@media(max-width:768px)
+{
+    .CeoCon{  
+        height: 400px;
+    }
+
+    .ceoLetterCon{
+        height: 450px;
+    }
+}
+
+@media(max-width:576px)
+{
+    .CeoCon{  
+        height: 300px;
+    }
+
+    .ceoLetterCon{
+        height: 250px;
+    }
+}

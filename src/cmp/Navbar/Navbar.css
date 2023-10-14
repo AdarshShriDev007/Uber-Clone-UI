@@ -1,0 +1,92 @@
+.navCon{
+    z-index: 10 !important;
+}
+
+.normalMenu-btn,.dropdown-btn{
+    border-radius: 50px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+
+.normalMenu-btn{
+    color: white !important;
+}
+
+.normalMenu-btn:hover,.dropdown-btn:hover{
+    border-radius: 50px !important;
+    background-color:#424242 !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    color:white !important;
+}
+
+.dropdownItem-btn{
+    font-size: 13px !important;
+    color:grey !important;
+}
+
+.dropdownItemScroll-btn{
+    color: black !important;
+    font-size: 15px !important;
+}
+
+.dropdownItem-btn:hover{
+    font-size: 13px !important;
+    color:black !important;
+}
+
+.dropdownItem-btn:focus{
+    font-size: 13px !important;
+    background-color: inherit !important;
+}
+
+.signup-btn{
+    border-radius: 50px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+
+.dropdownScrollIcon{
+    font-size: 18px !important;
+    margin-right: 15px !important;
+}
+
+.brand-name:hover{
+    color:white !important;
+}
+
+.dropdown-btn-mobile{
+    color: black !important;
+}
+
+
+.mob-navbar-con{
+    width: 100%;
+    background-color: white;
+}
+
+.mob-2Appbar-con{
+    width: 100% !important;
+    height: 500px !important;
+    overflow: hidden !important;
+}
+
+.menu-con{
+    margin-right: 20px !important;
+}
+
+.itemMobCon{
+    margin-top: 50px !important;
+}
+
+
+
+@media(max-width:320px)
+{
+    .navCon{
+        padding-left:0px !important;
+        padding-right:0px !important;
+    }
+}
+
+

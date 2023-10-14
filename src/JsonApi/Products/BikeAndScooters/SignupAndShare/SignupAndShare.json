@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "img" : "images/UberIM_20324-medium.webp",
+        "title" : "Sign up",
+        "subtitle" : "Download the app and set up your account so you’re ready the next time you need a ride.",
+        "button" : "Sign up to ride"
+    },
+    {
+        "id" : 2,
+        "img" : "images/UberIM_20156-medium.webp",
+        "title" : "Share",
+        "subtitle" : "Invite friends and refer your friends to Uber, and they’ll get $15 off their first ride.",
+        "button" : "Invite friends"
+    }
+]

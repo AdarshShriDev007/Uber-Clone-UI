@@ -1,0 +1,15 @@
+[
+    {
+        "id" : 1,
+        "title" : "Sign up to ride",
+        "icon" : "arrow_forward",
+        "name" : "ride"
+    },
+    {
+        "id" : 2,
+        "title" : "Sign up to drive",
+        "icon" : "arrow_forward",
+        "name" : "drive"
+    }
+]
+

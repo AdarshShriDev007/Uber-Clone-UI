@@ -1,0 +1,114 @@
+{
+    "title" : "Get more from your ride",
+    "list" : [
+        {
+            "id" : 1,
+            "icon" : "pin_drop",
+            "subtitle" : "Before your trip",
+            "button" : [
+                {
+                    "id" : 2,
+                    "name" : "Edit pickup points"
+                },
+                {
+                    "id" : 3,
+                    "name" : "Commuter benefits"
+                },
+                {
+                    "id" : 4,
+                    "name" : "Family Profiles"
+                },
+                {
+                    "id" : 5,
+                    "name" : "Saved Places"
+                },
+                {
+                    "id" : 6,
+                    "name" : "Schedule a ride"
+                },
+                {
+                    "id" : 7,
+                    "name" : "Request for a guest"
+                },
+                {
+                    "id" : 8,
+                    "name" : "Upfront pricing"
+                },
+                {
+                    "id" : 9,
+                    "name" : "Spotlight"
+                },
+                {
+                    "id" : 10,
+                    "name" : "Pickup messages"
+                },
+                {
+                    "id" : 11,
+                    "name" : "Pickup Spots"
+                },
+                {
+                    "id" : 12,
+                    "name" : "Bikes and scooters"
+                },
+                {
+                    "id" : 13,
+                    "name" : "Uber ride types"
+                }
+            ]
+        },
+        {
+            "id" : 14,
+            "icon" : "directions_car",
+            "subtitle" : "During your trip",
+            "button" : [
+                {
+                    "id" : 15,
+                    "name" : "Emergency assistance button"
+                },
+                {
+                    "id" : 16,
+                    "name" : "Driver profiles"
+                },
+                {
+                    "id" : 17,
+                    "name" : "Extra stops"
+                },
+                {
+                    "id" : 18,
+                    "name" : "Share your status"
+                },
+                {
+                    "id" : 19,
+                    "name" : "Split Fare"
+                },
+                {
+                    "id" : 20,
+                    "name" : "American Express"
+                }
+            ]
+        },
+        {
+            "id" : 21,
+            "icon" : "thumb_up",
+            "subtitle" : "After your trip",
+            "button" : [
+                {
+                    "id" : 22,
+                    "name" : "Compliments"
+                },
+                {
+                    "id" : 23,
+                    "name" : "Lost items"
+                },
+                {
+                    "id" : 24,
+                    "name" : "Ratings"
+                },
+                {
+                    "id" : 25,
+                    "name" : "Tipping"
+                }
+            ]
+        }
+    ]
+}

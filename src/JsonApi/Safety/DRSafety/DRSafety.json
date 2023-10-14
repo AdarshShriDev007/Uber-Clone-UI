@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "icon" : "time_to_leave",
+        "title" : "Driver safety",
+        "subtitle" : "Drive when and where you want with confidence.",
+        "button" : "Learn more"
+    },
+    {
+        "id" : 2,
+        "icon" : "two_wheeler",
+        "title" : "Rider safety",
+        "subtitle" : "Go anytime and get there comfortably.",
+        "button" : "Learn more"
+    }
+]

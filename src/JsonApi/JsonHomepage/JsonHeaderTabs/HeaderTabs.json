@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "Title" : "Request a ride now",
+        "InputTab" : true,
+        "RequestButtton" : "Request now",
+        "ScheduleButton" : "Schedule for later",
+        "headerImg" : "tabimg1.jpg",
+        "indexVal" : 0
+    },
+    {
+        "id" : 2,
+        "Title" : "Get in the driver’s seat and get paid",
+        "subTitle" : "Drive on the platform with the largest network of active riders.",
+        "InputTab" : false,
+        "Button" : "Sign up to drive",
+        "lastTitle" : "Learn more about driving and delivering",
+        "headerImg" : "tabimg2.jpg",
+        "indexVal" : 1
+    },
+    {
+        "id" : 3,
+        "Title" : "Make money by renting out your car",
+        "subTitle" : "Connect with thousands of drivers and earn more per week with Uber’s free fleet management tools.",
+        "InputTab" : false,
+        "Button" : "Get started",
+        "headerImg" : "tabimg3.jpg",
+        "indexVal" : 2
+    }
+]

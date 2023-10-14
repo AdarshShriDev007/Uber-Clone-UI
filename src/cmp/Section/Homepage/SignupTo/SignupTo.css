@@ -1,0 +1,57 @@
+.signupToIconCon{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    overflow: hidden;
+}
+
+.signupToIcon{
+    position:absolute;
+    left:0;
+    top:2px;
+    display: block;
+}
+
+.signupToCon:hover h4{
+    color:#545454;
+}
+
+.signupToCon:hover{
+    border-bottom: 1px solid #545454 !important;
+    cursor: pointer;
+}
+
+.signupToCon:hover .signupToIcon{
+    position: absolute;
+    left:0px;
+    color:#545454;
+    animation-name: hoverOn;
+    animation-direction:inherit;
+    animation-duration: 1s;
+}
+
+@keyframes hoverOn{
+    0% {left:0px}
+    50% {left:30px}
+    60% {color:white;left:-30px}
+}
+
+.ToCon{
+    padding:64px 100px 64px 100px;
+}
+
+@media(max-width:1200px)
+{
+    .ToCon{
+        padding:64px 50px 64px 50px;
+    }
+}
+
+@media(max-width:992px)
+{
+    .ToCon{
+        padding:64px 20px 64px 20px;
+    }
+}
+

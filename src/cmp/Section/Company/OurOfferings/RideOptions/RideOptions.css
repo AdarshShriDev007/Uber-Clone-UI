@@ -1,0 +1,28 @@
+.RideOptionsCon{
+    position: relative;
+    overflow: hidden;
+    
+    
+}
+
+.RideOptionSubCon{
+    overflow:hidden;
+    display: flex;
+    scroll-behavior: smooth;
+}
+
+.prev-btn,.next-btn{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+.prev-btn:hover,.next-btn:hover{
+    background-color: #ddd;
+    transition: 0.3s;
+}

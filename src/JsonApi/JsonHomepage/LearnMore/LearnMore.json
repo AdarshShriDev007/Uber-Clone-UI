@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "icon" : "people_alt",
+        "title" : "About us",
+        "subtitle" : "Find out how we started, what drives us, how we’re reimagining how the world moves.",
+        "button" : "Learn more about Uber"
+    },
+    {
+        "id" : 2,
+        "icon" : "newspaper",
+        "title" : "Newsroom",
+        "subtitle" : "See announcements about our latest releases, initiatives, and partnerships.",
+        "button" : "Go to Newsroom"
+    },
+    {
+        "id" : 3,
+        "icon" : "home",
+        "title" : "Global citizenship",
+        "subtitle" : "Read about our commitment to making a positive impact in the cities we serve.",
+        "button" : "See our partnerships"
+    }
+]

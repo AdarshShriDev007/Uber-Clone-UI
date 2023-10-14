@@ -1,0 +1,15 @@
+{
+    "img" : "images/RidesAndBeyond.webp",
+    "title" : "Rides and beyond",
+    "subtitle" : "In addition to helping riders find a way to go from point A to point B, we're helping people order food quickly and affordably, removing barriers to healthcare, creating new freight-booking solutions, and helping companies provide a seamless employee travel experience. And always helping drivers and couriers earn.",
+    "buttons" : [
+        {
+            "id" : 1,
+            "text" : "How to use the Uber app"
+        },
+        {
+            "id" : 2,
+            "text" : "Our offerings"
+        }
+    ] 
+}

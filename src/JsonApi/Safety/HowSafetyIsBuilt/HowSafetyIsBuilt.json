@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "title" : "Safety features in the app",
+        "subtitle" : "Share your trip details with loved ones. Track your trip during your ride. Our technology helps put peace of mind at your fingertips."
+    },
+    {
+        "id" : 2,
+        "title" : "An inclusive community",
+        "subtitle" : "Millions of riders and drivers share a set of Community Guidelines, holding each other accountable to do the right thing."
+    },
+    {
+        "id" : 3,
+        "title" : "Support at every turn",
+        "subtitle" : "A specially trained team is available 24/7. Reach them in the app, day or night, with any questions or safety concerns."
+    }
+]
